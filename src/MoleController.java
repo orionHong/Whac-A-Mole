@@ -10,4 +10,13 @@
  */
 public class MoleController {
     
+    private Model brain;
+    private View ui;
+    
+    public MoleController(Model brain, View ui) {
+        this.brain = brain;
+        this.ui = ui;
+    }
+    
+    
 }

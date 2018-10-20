@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.8" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace pref="59" max="32767" attributes="0"/>
+              <Component id="keyBoard" max="32767" attributes="0"/>
+              <EmptySpace pref="60" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace pref="113" max="32767" attributes="0"/>
+              <Component id="keyBoard" max="32767" attributes="0"/>
+              <EmptySpace pref="60" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="keyBoard">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace pref="30" max="32767" attributes="0"/>
+                  <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                      <Component id="secondRowPanel" alignment="1" min="-2" max="-2" attributes="0"/>
+                      <Component id="firstRowPanel" max="32767" attributes="0"/>
+                      <Component id="thirdRowPanel" alignment="1" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="31" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace pref="34" max="32767" attributes="0"/>
+                  <Component id="firstRowPanel" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                  <Component id="secondRowPanel" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                  <Component id="thirdRowPanel" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace pref="29" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="firstRowPanel">
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace pref="38" max="32767" attributes="0"/>
+                      <Component id="qKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="wKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="eKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="rKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="tKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="yKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="uKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="iKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="oKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="pKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="leftSquareBracketKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="rightSquareBracketKey" min="-2" pref="40" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="forwardSlashKey" min="-2" pref="40" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="rightSquareBracketKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="iKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="oKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="pKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="leftSquareBracketKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="qKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="wKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="eKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="rKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="tKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="yKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="uKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="forwardSlashKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="rightSquareBracketKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="]"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="leftSquareBracketKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="["/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="pKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="P"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="oKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="O"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="iKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="I"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="yKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Y"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="tKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="T"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="rKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="R"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="eKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="E"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="wKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="W"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="qKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Q"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="uKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="U"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="forwardSlashKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="\u005c" containsInvalidXMLChars="true"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="secondRowPanel">
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace pref="37" max="32767" attributes="0"/>
+                      <Component id="aKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="sKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="dKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="fKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="gKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="hKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="jKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="kKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="lKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="semicolonKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="singleQuoteKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="returnKey" min="-2" pref="75" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="returnKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="kKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="lKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="semicolonKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="singleQuoteKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="aKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="sKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="dKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="fKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="gKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="hKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="jKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="returnKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="return"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="singleQuoteKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="&apos;"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="semicolonKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value=";"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="lKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="L"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="kKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="K"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="hKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="H"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="gKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="G"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="fKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="F"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="dKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="D"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="sKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="S"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="aKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="A"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="jKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="J"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="thirdRowPanel">
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="zKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="xKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="cKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="vKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="bKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="nKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="mKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="commaKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="dotKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="backSlashKey" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="whacAWholeIconLabel" min="-2" pref="92" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="zKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="xKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="cKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="vKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="bKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="nKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="mKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="commaKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="dotKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="backSlashKey" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="whacAWholeIconLabel" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="zKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Z"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="xKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="X"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="cKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="C"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="vKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="V"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="bKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="B"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="nKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="N"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="mKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="M"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="commaKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value=","/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="dotKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="."/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="backSlashKey">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="/"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="whacAWholeIconLabel">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="&#x5730;&#x9f20;"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
